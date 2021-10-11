@@ -1,0 +1,11 @@
+<ol>
+<li>Pada pertemuan pertama Rekayasa web dijelaskan bagaimana penggunaan wordpress. Sebelum itu, dijelaskan bagaimana cara menginstal wordpress.
+pertama jika belum mendownload wordpress yang di tele, buka di google id.wordpress.org. 
+Kedua,jika sudah muncul scroll kebawah sampai muncul tulisan install wordpress.
+Jika sudah didownload buka extract file wordpress tersebut.
+Jika sudah di extract, ubah nama wordpress menjadi si5a2122o. selanjutnya, file yang sudah di ubah menjadi si5a2122o di copy ke htdocs. 
+Lalu buka localhost/si5a2122a maka akan muncul tampilan awal wordpress. 
+Di pertemuan ini diajarkan juga bagaimana cara membackup file si5a2122o. Pertama bikin folder SI5A - 1, selanjutnya copy file si5a2122o yang ada di htdocs ke folder SI5A - 1.
+Selanjutnya export file si5a2122o di database. Jika sudah letakan file di folder SI5A - 1. Jadi di dalam folder SI5A - 1 ada si5a2122o dan ql. 
+Apabila ingin merestore, buka impor di phpadmin lalu chosee file ql tadi, setelah itu tunggu sampe selesai.</li> 
+</ol>
