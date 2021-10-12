@@ -1,16 +1,17 @@
+<ol>
+<li>
 Nim : 1922500035
 Nama : Sri Rezeki
 SI5A
 
-<ol>
-<li>1.Pada pertemuan pertama Rekayasa web dijelaskan bagaimana mendapatkan CMS wordpress. 
+1.Pada pertemuan pertama Rekayasa web dijelaskan bagaimana mendapatkan CMS wordpress. 
 2.Dijelaskan juga bagaimana cara menginstal wordpress.
 - pertama jika belum mendownload wordpress, buka di google id.wordpress.org. 
 - Kedua,jika sudah muncul scroll kebawah sampai muncul tulisan install wordpress.
 - Jika sudah didownload buka extract file wordpress tersebut.
 - Jika sudah di extract, ubah nama wordpress menjadi si5a2122o. 
 - selanjutnya, file yang sudah di ubah menjadi si5a2122o di copy ke htdocs. 
-- Lalu buka localhost/si5a2122a maka akan muncul tampilan awal wordpress. 
+- Lalu buka localhost/si5a2122o maka akan muncul tampilan awal wordpress. 
 3.Di pertemuan ini diajarkan juga bagaimana cara membackup file si5a2122o. 
 - Pertama bikin folder SI5A - 1.
 - selanjutnya copy file si5a2122o yang ada di htdocs ke folder SI5A - 1.
